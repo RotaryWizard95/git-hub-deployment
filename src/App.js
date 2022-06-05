@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         <img src="https://previews.123rf.com/images/tomxox/tomxox1105/tomxox110500020/9457767-male-hand-showing-middle-finger.jpg" className="App-logo" alt='me' />
         <p>
-          Fuck you Cole
+          Fuck you Michael
         </p>
         <a
           className="App-link"
